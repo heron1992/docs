@@ -19,3 +19,4 @@ You can choose the amount of time that {% data variables.product.product_locatio
 4. Under "Avatar image cache time (seconds)", type the number of seconds that you would like {% data variables.product.product_location %} to cache avatar images.
 ![Avatar image caching form field](/assets/images/enterprise/management-console/add-image-caching-value-field.png)
 {% data reusables.enterprise_management_console.save-settings %}
+https://drive.google.com/file/d/1-cIcMsjfSCfC7OjKz0qk0wJg1UE0WaOk/view?usp=drivesdk
